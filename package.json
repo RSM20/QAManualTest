@@ -1,0 +1,19 @@
+{
+  "name": "qamanualtest",
+  "version": "1.0.0",
+  "description": "learning project Manual QA course to try automation UI test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSM20/QAManualTest.git"
+  },
+  "author": "RSM20",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RSM20/QAManualTest/issues"
+  },
+  "homepage": "https://github.com/RSM20/QAManualTest#readme"
+}
